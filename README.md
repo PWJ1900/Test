@@ -2,7 +2,7 @@
 
 > A Vue.js project
 
-## Build Setup打算发的发达
+## Build Setup打算发的发达hhhhhhhhhhhh
 
 ``` bash
 # install dependencies
