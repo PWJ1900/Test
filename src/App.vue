@@ -10,7 +10,7 @@ export default {
   name: 'App'
 }
 </script>
-// 我就是要改变的值dddddd
+// 我就是要改变的值ddddddddddddddgiit
 
 <style>
 #app {
