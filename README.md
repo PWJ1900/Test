@@ -2,7 +2,7 @@
 
 > A Vue.js project
 
-## Build Setupssssss
+## Build Setupssssssddddd
 
 ``` bash
 # install dependencies
